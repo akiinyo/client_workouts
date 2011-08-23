@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  client_name: MyString
+  trainer: MyString
+  duration_mins: 1
+
+two:
+  client_name: MyString
+  trainer: MyString
+  duration_mins: 1
